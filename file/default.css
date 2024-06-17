@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-image: url('../img2.png');
-  background-size: cover;
+  background-size: fit;
   background-repeat: no-repeat;
   font-size: 14px;
   font-family: sans-serif;
